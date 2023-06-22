@@ -176,7 +176,7 @@ Feel free to check the [issues page](github.com/Javed-Shahbazissues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-**Please show your support for futher improvements  and give a ⭐️ if you like this project!**
+**Please show your support for further improvements  and give a ⭐️ if you like this project!**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +186,7 @@ Feel free to check the [issues page](github.com/Javed-Shahbazissues/).
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank to Postgresql for providing such a good open source database.
+I would like to thank Postgresql for providing such a good open-source database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
