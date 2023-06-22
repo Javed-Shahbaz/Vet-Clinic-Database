@@ -207,7 +207,7 @@ I would like to thank Postgresql for providing such a good open-source database.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./License.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
