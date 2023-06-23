@@ -40,7 +40,6 @@ After you're finished please remove all the comments and instructions!
     - [Key Features](#key-features)
  - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
