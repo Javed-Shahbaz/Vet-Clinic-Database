@@ -42,3 +42,24 @@ VALUES (10, 'Blossom', '1998-10-13', 3, 'yes', 17);
 INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kg)
 VALUES (11, 'Ditto', '2022-05-14', 4, 'yes', 22);
 
+insert into owners values('Sam Smith', 34);
+insert into owners values('Jennifer Orwell', 19);
+insert into owners values('Bob', 45);
+insert into owners values('Melody Pond', 77);
+insert into owners values('Dean Winchester', 14);
+insert into owners values('Jodie Whittaker', 38);
+insert into species values(1,'Pokemon');
+insert into species values(2,'Digimon');
+update animals set species_id = 2 where name like '%mon';
+update animals set species_id = 1 where name not like '%mon';
+update animals set owner_id = 1 where name ='Agumon';
+update animals set owner_id = 2 where name = 'Gabumon'; 
+update animals set owner_id = 2 where name = 'Pikachu';
+update animals set owner_id = 3 where name = 'Devimon'; 
+update animals set owner_id = 3 where name = 'Plantmon';
+update animals set owner_id = 4 where name = 'Charmander'; 
+update animals set owner_id = 4 where name = 'Squirtle';
+update animals set owner_id = 4 where name = 'Blossom';
+update animals set owner_id = 5 where name = 'Angemon';
+update animals set owner_id = 5 where name = 'Boarmon';
+
