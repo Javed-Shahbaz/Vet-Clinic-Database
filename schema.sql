@@ -5,6 +5,16 @@ alter table animals
 add species varchar(255);
 
 alter table animals alter column id set default nextval('animals');
+CREATE TABLE owners (
+    id SERIAL PRIMARY KEY,
+    full_name varchar(25),
+	age int
+);
+
+CREATE TABLE species (
+    id SERIAL PRIMARY KEY,
+    name varchar(25)
+);
 
 select * from animals;
 alter table animals add column species_id integer;
