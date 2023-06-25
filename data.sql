@@ -66,7 +66,7 @@ update animals set owner_id = 5 where name = 'Boarmon';
 INSERT INTO vets(id,name,age,date_of_graduation)
 values(1,'William Tatcher',45,'2000-04-23');
 INSERT INTO vets(id,name,age,date_of_graduation)
-values(2,'Maisy Smith',26,'2019-06-17');
+values(2,'Maisy Smith',26,'2019-01-17');
 INSERT INTO vets(id,name,age,date_of_graduation)
 values(3,'Stephanie Mendez',64,'1981-05-04');
 INSERT INTO vets(id,name,age,date_of_graduation)
