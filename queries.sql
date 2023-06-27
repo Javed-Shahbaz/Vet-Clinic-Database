@@ -138,7 +138,8 @@ WHERE vets.name = 'Maisy Smith'
 GROUP BY species.name
 ORDER BY num_visits DESC
 LIMIT 1;
-
+--------------------------------------------------------------------------------------------------------------------------------
+-- QUERIES AFTER IMPROVEMENT
 EXPLAIN ANALYZE SELECT visits_total FROM animals WHERE animal_id = 4;
 EXPLAIN ANALYZE SELECT * FROM Vet_Sumary WHERE vet_id = 2;
 EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
