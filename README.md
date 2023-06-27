@@ -134,6 +134,12 @@ Connect to database
 - Twitter: [@javedshahbaz007](https://twitter.com/javedshahbaz007)
 - LinkedIn: [@javedshahbaz](https://www.linkedin.com/in/javedshahbaz/)
 
+👤 Author
+
+- GitHub: @abiola-arobieke
+- Linkedin: @abiola-arobieke
+- Twitter: @abiola_arobieke
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
