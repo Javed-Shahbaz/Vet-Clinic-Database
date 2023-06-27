@@ -54,6 +54,7 @@ ADD COLUMN visit_date date;
 ALTER TABLE animals
 ADD COLUMN visits_total int DEFAULT 0;
 
+
 -- ADD INDEX ON email in owners TABLE TO REDUCE EXECUTION TIME
 CREATE INDEX owner_email_IDX ON owners (email);
 
