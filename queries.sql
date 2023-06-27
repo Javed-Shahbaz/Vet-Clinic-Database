@@ -139,6 +139,6 @@ GROUP BY species.name
 ORDER BY num_visits DESC
 LIMIT 1;
 
-EXPLAIN ANALYZE SELECT COUNT(*) FROM visits WHERE animal_id = 4;
-EXPLAIN ANALYZE SELECT * FROM visits WHERE vet_id = 2;
+EXPLAIN ANALYZE SELECT visit_total FROM animals WHERE id = 4;
+EXPLAIN ANALYZE SELECT * FROM Vet_Summary WHERE vet_id = 2;
 EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
