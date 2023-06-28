@@ -1,11 +1,4 @@
-# Vet clinic database
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+![ERD-VET](https://github.com/Javed-Shahbaz/Vet-Clinic-Database/assets/76252961/0f8c028b-d588-466b-8409-31c21c4ff1c2)
 
 <a name="readme-top"></a>
 
